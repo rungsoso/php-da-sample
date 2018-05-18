@@ -2,7 +2,7 @@
         <div class="row" id="footer-row">
             <div class="col-sm-12">
                 <div class="col-sm-4">
-                    <span>Contact Us</span>
+                    <span>Contact Us (Edit)</span>
                     <ul>
                         <li>One Microsoft Way</li>
                         <li>Redmond, WA 98052-6399</li>
